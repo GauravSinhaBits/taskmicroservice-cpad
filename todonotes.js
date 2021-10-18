@@ -33,7 +33,7 @@ const {MongoClient} = require('mongodb');
 const { writer } = require('repl');
 
 
-const uri ="mongodb+srv://ToDoUser:ToDo%40Password@cluster0.fa1jn.mongodb.net/Tasks?retryWrites=true&w=majority";
+const uri ="mongodb+srv://ToDoUser:ToDoPassword@cluster0.xzi5d.mongodb.net/Tasks?retryWrites=true&w=majority";
 
 
 const connectionParams={
